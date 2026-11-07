@@ -97,7 +97,7 @@ def jalankan():
 if __name__ == "__main__":
     jalankan()
 
-#ppppppp 
+
 # =====================================
 # PENGEMBANGAN APLIKASI BRIDGE
 # =====================================

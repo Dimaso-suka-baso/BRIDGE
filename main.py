@@ -109,3 +109,4 @@ if __name__ == "__main__":
 # Pengembangan selanjutnya mencakup database chat.
 # Data percakapan dapat disimpan secara permanen.
 # Keamanan dan kenyamanan pengguna menjadi prioritas.
+# BRIDGE sedang dalam proses pengembangan

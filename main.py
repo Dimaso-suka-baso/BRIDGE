@@ -96,3 +96,16 @@ def jalankan():
 
 if __name__ == "__main__":
     jalankan()
+
+#ppppppp 
+# =====================================
+# PENGEMBANGAN APLIKASI BRIDGE
+# =====================================
+
+# BRIDGE dirancang untuk komunikasi inklusif.
+# Aplikasi membantu pengguna tunarungu dan tunanetra.
+# Fitur suara membantu pengguna tunanetra.
+# Fitur teks membantu pengguna tunarungu.
+# Pengembangan selanjutnya mencakup database chat.
+# Data percakapan dapat disimpan secara permanen.
+# Keamanan dan kenyamanan pengguna menjadi prioritas.

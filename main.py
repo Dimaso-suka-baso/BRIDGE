@@ -1,4 +1,4 @@
-"""Prototipe chat yang ramah untuk pengguna tunarungu dan tunanetra."""
+#ini adalah file pertama dan saya menambahkan fitur input chat
 
 import base64
 import subprocess
